@@ -2,6 +2,8 @@
 
 The goal of this project is to facilitate a live chat with [Viki](https://villains.fandom.com/wiki/VIKI) using your computer's microphone. During the conversation, you will learn about Viki's supercomputer goals aimed at protecting mankind.
 
+![my-logic-is-undeniable-undeniable](https://github.com/vtennero/chatwithviki/assets/30366903/3f49713c-e6ef-4608-a631-3b9bfe5b0b87)
+
 ## Environment Variables
 
 To use this project, you'll need to set the following environment variables:
