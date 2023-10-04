@@ -21,8 +21,9 @@ Make sure to replace `your eleven labs api key` and `your open ai api key` with 
 
 ## Examples of Conversations
 
-Audio
+[Audio](https://github.com/vtennero/chatwithviki/assets/30366903/f3ac8105-7114-4298-8672-5deee0e04136)
+![screen01](https://github.com/vtennero/chatwithviki/assets/30366903/ea070bf1-f0cb-439c-8b5c-b6b091da33f1)
 
 
-https://github.com/vtennero/chatwithviki/assets/30366903/f3ac8105-7114-4298-8672-5deee0e04136
+
 
