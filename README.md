@@ -1,7 +1,5 @@
 # Chat with I, Robot Villain Viki
 
-## Goal
-
 The goal of this project is to facilitate a live chat with [Viki](https://villains.fandom.com/wiki/VIKI) using your computer's microphone. During the conversation, you will learn about Viki's supercomputer goals aimed at protecting mankind.
 
 ## Environment Variables
