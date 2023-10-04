@@ -18,3 +18,11 @@ Make sure to replace `your eleven labs api key` and `your open ai api key` with 
 2. Plug a microphone and turn your speakers on.
 3. Set the environment variables in your system with appropriate values.
 4. Run the application with `python chatwithviki.py`
+
+## Examples of Conversations
+
+Audio
+
+
+https://github.com/vtennero/chatwithviki/assets/30366903/f3ac8105-7114-4298-8672-5deee0e04136
+
