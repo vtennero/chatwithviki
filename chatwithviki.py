@@ -34,10 +34,12 @@ conversation = ConversationChain(
     memory=ConversationBufferMemory()
 )
 
+VOICE_ID='h2vm4IeJjh271VYsQ2cl'
+
 
 def play_text(text):
     CHUNK_SIZE = 1024
-    url = f"https://api.elevenlabs.io/v1/text-to-speech/{os.getenv('VOICE_ID')}/stream"
+    url = f"https://api.elevenlabs.io/v1/text-to-speech/{VOICE_ID}/stream"
 
     headers = {
         "Accept": "audio/mpeg",
@@ -139,8 +141,6 @@ while True:
 
     print("✅ Recording finished!")
 
-
-
     # Stop the audio stream
     stream.stop_stream()
     stream.close()
@@ -173,7 +173,7 @@ while True:
 
         print_to_file(file_name, text, response_text)
 
-        # Initialize the text-to-speech engine - standard voice
+        # use this for standard voice
         # engine = pyttsx3.init()
         # voices = engine.getProperty('voices')
         # engine.setProperty('voice', voices[1].id)  
